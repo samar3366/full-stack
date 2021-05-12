@@ -1,6 +1,6 @@
 # Javascript
 
-## Basics
+## [Basics](https://github.com/samar3366/full-stack/blob/main/javascript/basics.md)
 - console.log
 - variables
 - data types
