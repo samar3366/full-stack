@@ -12,4 +12,29 @@
 - VSCode(Free) [Highly Recommended]
 - WebStorm(Paid)
 
+### ways to include js code in your HTML File
+- add `script` tag in the body tag and write your code.
+``` 
+<html>
+<head></head>
+<body>
+<script>
+console.log("Hello World");
+</script>
+</body>
+</html>
+```
+- or use `src` property to include js code from `.js` file.
 
+``` 
+---index.js---
+console.log("Hello World");
+---index.html---
+<html>
+<head></head>
+<body>
+<script src="./index.js"/>
+</body>
+</html>
+
+```
