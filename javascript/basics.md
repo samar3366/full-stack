@@ -38,3 +38,14 @@ console.log("Hello World");
 </html>
 
 ```
+
+### Basic programming paradigm
+- console.log
+- variables
+- conditional statements
+- looping statements
+- functions
+- class
+
+## console.log
+- In javascript we use `console.log([---Statement here---])` to log values in browser console. in case of Node it logs in terminal.
